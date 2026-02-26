@@ -1,0 +1,584 @@
+[00:00:01.082] Server  LOG     ✓ Ready in 758ms
+[00:00:12.490] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:00:20.025] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:00:21.850] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:00:23.367] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:00:24.365] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:00:25.696] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:00:26.790] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:00:29.728] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:00:31.216] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:12:23.422] Server  LOG     ✓ Compiled in 22ms
+[00:14:41.794] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:17:40.139] Server  ERROR   ⨯ ./app/page.tsx:1:1
+Module not found: Can't resolve '@/components/MainHero'
+> 1 | import MainHero from "@/components/MainHero";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 | import PhotoGrid from "@/components/PhotoGrid";
+  3 | import { ideas, recipes } from "@/lib/mock";
+  4 | import { Main } from "next/document";
+
+Import map: aliased to relative './components/MainHero' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:17:40.140] Server  ERROR   ⨯ ./app/page.tsx:1:1
+Module not found: Can't resolve '@/components/MainHero'
+> 1 | import MainHero from "@/components/MainHero";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 | import PhotoGrid from "@/components/PhotoGrid";
+  3 | import { ideas, recipes } from "@/lib/mock";
+  4 | import { Main } from "next/document";
+
+Import map: aliased to relative './components/MainHero' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:17:40.142] Server  ERROR   ⨯ ./app/page.tsx:1:1
+Module not found: Can't resolve '@/components/MainHero'
+> 1 | import MainHero from "@/components/MainHero";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 | import PhotoGrid from "@/components/PhotoGrid";
+  3 | import { ideas, recipes } from "@/lib/mock";
+  4 | import { Main } from "next/document";
+
+Import map: aliased to relative './components/MainHero' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:17:40.143] Server  ERROR   ⨯ ./app/page.tsx:1:1
+Module not found: Can't resolve '@/components/MainHero'
+> 1 | import MainHero from "@/components/MainHero";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 | import PhotoGrid from "@/components/PhotoGrid";
+  3 | import { ideas, recipes } from "@/lib/mock";
+  4 | import { Main } from "next/document";
+
+Import map: aliased to relative './components/MainHero' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:17:40.144] Server  ERROR   ⨯ ./app/page.tsx:1:1
+Module not found: Can't resolve '@/components/MainHero'
+> 1 | import MainHero from "@/components/MainHero";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 | import PhotoGrid from "@/components/PhotoGrid";
+  3 | import { ideas, recipes } from "@/lib/mock";
+  4 | import { Main } from "next/document";
+
+Import map: aliased to relative './components/MainHero' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:17:40.145] Server  ERROR   ⨯ ./app/page.tsx:1:1
+Module not found: Can't resolve '@/components/MainHero'
+> 1 | import MainHero from "@/components/MainHero";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 | import PhotoGrid from "@/components/PhotoGrid";
+  3 | import { ideas, recipes } from "@/lib/mock";
+  4 | import { Main } from "next/document";
+
+Import map: aliased to relative './components/MainHero' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:17:40.146] Server  ERROR   ⨯ ./app/page.tsx:1:1
+Module not found: Can't resolve '@/components/MainHero'
+> 1 | import MainHero from "@/components/MainHero";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 | import PhotoGrid from "@/components/PhotoGrid";
+  3 | import { ideas, recipes } from "@/lib/mock";
+  4 | import { Main } from "next/document";
+
+Import map: aliased to relative './components/MainHero' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:17:40.147] Server  ERROR   ⨯ ./app/page.tsx:1:1
+Module not found: Can't resolve '@/components/MainHero'
+> 1 | import MainHero from "@/components/MainHero";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 | import PhotoGrid from "@/components/PhotoGrid";
+  3 | import { ideas, recipes } from "@/lib/mock";
+  4 | import { Main } from "next/document";
+
+Import map: aliased to relative './components/MainHero' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:17:40.147] Server  ERROR   ⨯ ./app/page.tsx:1:1
+Module not found: Can't resolve '@/components/MainHero'
+> 1 | import MainHero from "@/components/MainHero";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 | import PhotoGrid from "@/components/PhotoGrid";
+  3 | import { ideas, recipes } from "@/lib/mock";
+  4 | import { Main } from "next/document";
+
+Import map: aliased to relative './components/MainHero' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:17:40.148] Server  ERROR   ⨯ ./app/page.tsx:1:1
+Module not found: Can't resolve '@/components/MainHero'
+> 1 | import MainHero from "@/components/MainHero";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 | import PhotoGrid from "@/components/PhotoGrid";
+  3 | import { ideas, recipes } from "@/lib/mock";
+  4 | import { Main } from "next/document";
+
+Import map: aliased to relative './components/MainHero' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:17:40.148] Server  ERROR   ⨯ ./app/page.tsx:1:1
+Module not found: Can't resolve '@/components/MainHero'
+> 1 | import MainHero from "@/components/MainHero";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 | import PhotoGrid from "@/components/PhotoGrid";
+  3 | import { ideas, recipes } from "@/lib/mock";
+  4 | import { Main } from "next/document";
+
+Import map: aliased to relative './components/MainHero' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:17:40.149] Server  ERROR   ⨯ ./app/page.tsx:1:1
+Module not found: Can't resolve '@/components/MainHero'
+> 1 | import MainHero from "@/components/MainHero";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 | import PhotoGrid from "@/components/PhotoGrid";
+  3 | import { ideas, recipes } from "@/lib/mock";
+  4 | import { Main } from "next/document";
+
+Import map: aliased to relative './components/MainHero' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:17:40.150] Server  ERROR   ⨯ ./app/page.tsx:1:1
+Module not found: Can't resolve '@/components/MainHero'
+> 1 | import MainHero from "@/components/MainHero";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 | import PhotoGrid from "@/components/PhotoGrid";
+  3 | import { ideas, recipes } from "@/lib/mock";
+  4 | import { Main } from "next/document";
+
+Import map: aliased to relative './components/MainHero' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:17:40.150] Server  ERROR   ⨯ ./app/page.tsx:1:1
+Module not found: Can't resolve '@/components/MainHero'
+> 1 | import MainHero from "@/components/MainHero";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 | import PhotoGrid from "@/components/PhotoGrid";
+  3 | import { ideas, recipes } from "@/lib/mock";
+  4 | import { Main } from "next/document";
+
+Import map: aliased to relative './components/MainHero' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:17:40.151] Server  ERROR   ⨯ ./app/page.tsx:1:1
+Module not found: Can't resolve '@/components/MainHero'
+> 1 | import MainHero from "@/components/MainHero";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 | import PhotoGrid from "@/components/PhotoGrid";
+  3 | import { ideas, recipes } from "@/lib/mock";
+  4 | import { Main } from "next/document";
+
+Import map: aliased to relative './components/MainHero' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:17:40.152] Server  ERROR   ⨯ ./app/page.tsx:1:1
+Module not found: Can't resolve '@/components/MainHero'
+> 1 | import MainHero from "@/components/MainHero";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 | import PhotoGrid from "@/components/PhotoGrid";
+  3 | import { ideas, recipes } from "@/lib/mock";
+  4 | import { Main } from "next/document";
+
+Import map: aliased to relative './components/MainHero' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:17:40.153] Server  ERROR   ⨯ ./app/page.tsx:1:1
+Module not found: Can't resolve '@/components/MainHero'
+> 1 | import MainHero from "@/components/MainHero";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 | import PhotoGrid from "@/components/PhotoGrid";
+  3 | import { ideas, recipes } from "@/lib/mock";
+  4 | import { Main } from "next/document";
+
+Import map: aliased to relative './components/MainHero' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:17:40.153] Server  ERROR   ⨯ ./app/page.tsx:1:1
+Module not found: Can't resolve '@/components/MainHero'
+> 1 | import MainHero from "@/components/MainHero";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 | import PhotoGrid from "@/components/PhotoGrid";
+  3 | import { ideas, recipes } from "@/lib/mock";
+  4 | import { Main } from "next/document";
+
+Import map: aliased to relative './components/MainHero' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:17:40.154] Server  ERROR   ⨯ ./app/page.tsx:1:1
+Module not found: Can't resolve '@/components/MainHero'
+> 1 | import MainHero from "@/components/MainHero";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 | import PhotoGrid from "@/components/PhotoGrid";
+  3 | import { ideas, recipes } from "@/lib/mock";
+  4 | import { Main } from "next/document";
+
+Import map: aliased to relative './components/MainHero' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:17:40.154] Server  ERROR   ⨯ ./app/page.tsx:1:1
+Module not found: Can't resolve '@/components/MainHero'
+> 1 | import MainHero from "@/components/MainHero";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 | import PhotoGrid from "@/components/PhotoGrid";
+  3 | import { ideas, recipes } from "@/lib/mock";
+  4 | import { Main } from "next/document";
+
+Import map: aliased to relative './components/MainHero' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:17:40.155] Server  ERROR   ⨯ ./app/page.tsx:1:1
+Module not found: Can't resolve '@/components/MainHero'
+> 1 | import MainHero from "@/components/MainHero";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 | import PhotoGrid from "@/components/PhotoGrid";
+  3 | import { ideas, recipes } from "@/lib/mock";
+  4 | import { Main } from "next/document";
+
+Import map: aliased to relative './components/MainHero' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:17:40.156] Server  ERROR   ⨯ ./app/page.tsx:1:1
+Module not found: Can't resolve '@/components/MainHero'
+> 1 | import MainHero from "@/components/MainHero";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 | import PhotoGrid from "@/components/PhotoGrid";
+  3 | import { ideas, recipes } from "@/lib/mock";
+  4 | import { Main } from "next/document";
+
+Import map: aliased to relative './components/MainHero' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:17:40.157] Server  ERROR   ⨯ ./app/page.tsx:1:1
+Module not found: Can't resolve '@/components/MainHero'
+> 1 | import MainHero from "@/components/MainHero";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 | import PhotoGrid from "@/components/PhotoGrid";
+  3 | import { ideas, recipes } from "@/lib/mock";
+  4 | import { Main } from "next/document";
+
+Import map: aliased to relative './components/MainHero' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:17:40.158] Server  ERROR   ⨯ ./app/page.tsx:1:1
+Module not found: Can't resolve '@/components/MainHero'
+> 1 | import MainHero from "@/components/MainHero";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 | import PhotoGrid from "@/components/PhotoGrid";
+  3 | import { ideas, recipes } from "@/lib/mock";
+  4 | import { Main } from "next/document";
+
+Import map: aliased to relative './components/MainHero' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:17:40.283] Browser ERROR   ./app/page.tsx:1:1
+Module not found: Can't resolve '@/components/MainHero'
+> 1 | import MainHero from "@/components/MainHero";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 | import PhotoGrid from "@/components/PhotoGrid";
+  3 | import { ideas, recipes } from "@/lib/mock";
+  4 | import { Main } from "next/document";
+
+Import map: aliased to relative './components/MainHero' inside of [project]/
+
+https://nextjs.org/docs/messages/module-not-found
+[00:17:41.035] Browser ERROR   ./app/page.tsx:1:1
+Module not found: Can't resolve '@/components/MainHero'
+> 1 | import MainHero from "@/components/MainHero";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 | import PhotoGrid from "@/components/PhotoGrid";
+  3 | import { ideas, recipes } from "@/lib/mock";
+  4 | import { Main } from "next/document";
+
+Import map: aliased to relative './components/MainHero' inside of [project]/
+
+https://nextjs.org/docs/messages/module-not-found
+[00:17:46.993] Browser ERROR   ./app/page.tsx:1:1
+Module not found: Can't resolve '@/components/MainHero'
+> 1 | import MainHero from "@/components/MainHero";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 | import PhotoGrid from "@/components/PhotoGrid";
+  3 | import { ideas, recipes } from "@/lib/mock";
+  4 | import { Main } from "next/document";
+
+Import map: aliased to relative './components/MainHero' inside of [project]/
+
+https://nextjs.org/docs/messages/module-not-found
+[00:17:47.033] Browser ERROR   ./app/page.tsx:1:1
+Module not found: Can't resolve '@/components/MainHero'
+> 1 | import MainHero from "@/components/MainHero";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 | import PhotoGrid from "@/components/PhotoGrid";
+  3 | import { ideas, recipes } from "@/lib/mock";
+  4 | import { Main } from "next/document";
+
+Import map: aliased to relative './components/MainHero' inside of [project]/
+
+https://nextjs.org/docs/messages/module-not-found
+[00:18:02.689] Server  ERROR   ⨯ ./app/page.tsx:1:1
+Module not found: Can't resolve '@/components/MainHero'
+> 1 | import MainHero from "@/components/MainHero";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 | import PhotoGrid from "@/components/PhotoGrid";
+  3 | import { ideas, recipes } from "@/lib/mock";
+  4 | import { Main } from "next/document";
+
+Import map: aliased to relative './components/MainHero' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:18:02.798] Browser ERROR   ./app/page.tsx:1:1
+Module not found: Can't resolve '@/components/MainHero'
+> 1 | import MainHero from "@/components/MainHero";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 | import PhotoGrid from "@/components/PhotoGrid";
+  3 | import { ideas, recipes } from "@/lib/mock";
+  4 | import { Main } from "next/document";
+
+Import map: aliased to relative './components/MainHero' inside of [project]/
+
+https://nextjs.org/docs/messages/module-not-found
+[00:18:03.067] Browser ERROR   ./app/page.tsx:1:1
+Module not found: Can't resolve '@/components/MainHero'
+> 1 | import MainHero from "@/components/MainHero";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 | import PhotoGrid from "@/components/PhotoGrid";
+  3 | import { ideas, recipes } from "@/lib/mock";
+  4 | import { Main } from "next/document";
+
+Import map: aliased to relative './components/MainHero' inside of [project]/
+
+https://nextjs.org/docs/messages/module-not-found
+[00:18:03.507] Browser ERROR   uncaughtError: Error: ./app/page.tsx:1:1
+Module not found: Can't resolve '@/components/MainHero'
+> 1 | import MainHero from "@/components/MainHero";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 | import PhotoGrid from "@/components/PhotoGrid";
+  3 | import { ideas, recipes } from "@/lib/mock";
+  4 | import { Main } from "next/document";
+
+Import map: aliased to relative './components/MainHero' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:18:03.667] Browser ERROR   ./app/page.tsx:1:1
+Module not found: Can't resolve '@/components/MainHero'
+> 1 | import MainHero from "@/components/MainHero";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 | import PhotoGrid from "@/components/PhotoGrid";
+  3 | import { ideas, recipes } from "@/lib/mock";
+  4 | import { Main } from "next/document";
+
+Import map: aliased to relative './components/MainHero' inside of [project]/
+
+https://nextjs.org/docs/messages/module-not-found
+[00:18:03.667] Browser ERROR   ./app/page.tsx:1:1
+Module not found: Can't resolve '@/components/MainHero'
+> 1 | import MainHero from "@/components/MainHero";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 | import PhotoGrid from "@/components/PhotoGrid";
+  3 | import { ideas, recipes } from "@/lib/mock";
+  4 | import { Main } from "next/document";
+
+Import map: aliased to relative './components/MainHero' inside of [project]/
+
+https://nextjs.org/docs/messages/module-not-found
+[00:18:03.790] Browser ERROR   ./app/page.tsx:1:1
+Module not found: Can't resolve '@/components/MainHero'
+> 1 | import MainHero from "@/components/MainHero";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 | import PhotoGrid from "@/components/PhotoGrid";
+  3 | import { ideas, recipes } from "@/lib/mock";
+  4 | import { Main } from "next/document";
+
+Import map: aliased to relative './components/MainHero' inside of [project]/
+
+https://nextjs.org/docs/messages/module-not-found
+[00:18:04.035] Browser ERROR   ./app/page.tsx:1:1
+Module not found: Can't resolve '@/components/MainHero'
+> 1 | import MainHero from "@/components/MainHero";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 | import PhotoGrid from "@/components/PhotoGrid";
+  3 | import { ideas, recipes } from "@/lib/mock";
+  4 | import { Main } from "next/document";
+
+Import map: aliased to relative './components/MainHero' inside of [project]/
+
+https://nextjs.org/docs/messages/module-not-found
+[00:18:04.035] Browser ERROR   ./app/page.tsx:1:1
+Module not found: Can't resolve '@/components/MainHero'
+> 1 | import MainHero from "@/components/MainHero";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 | import PhotoGrid from "@/components/PhotoGrid";
+  3 | import { ideas, recipes } from "@/lib/mock";
+  4 | import { Main } from "next/document";
+
+Import map: aliased to relative './components/MainHero' inside of [project]/
+
+https://nextjs.org/docs/messages/module-not-found
+[00:18:04.035] Browser ERROR   ./app/page.tsx:1:1
+Module not found: Can't resolve '@/components/MainHero'
+> 1 | import MainHero from "@/components/MainHero";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 | import PhotoGrid from "@/components/PhotoGrid";
+  3 | import { ideas, recipes } from "@/lib/mock";
+  4 | import { Main } from "next/document";
+
+Import map: aliased to relative './components/MainHero' inside of [project]/
+
+https://nextjs.org/docs/messages/module-not-found
+[00:18:05.948] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:18:06.116] Browser ERROR   ./app/page.tsx:1:1
+Module not found: Can't resolve '@/components/MainHero'
+> 1 | import MainHero from "@/components/MainHero";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 | import PhotoGrid from "@/components/PhotoGrid";
+  3 | import { ideas, recipes } from "@/lib/mock";
+  4 | import { Main } from "next/document";
+
+Import map: aliased to relative './components/MainHero' inside of [project]/
+
+https://nextjs.org/docs/messages/module-not-found
+[00:18:06.116] Browser ERROR   ./app/page.tsx:1:1
+Module not found: Can't resolve '@/components/MainHero'
+> 1 | import MainHero from "@/components/MainHero";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 | import PhotoGrid from "@/components/PhotoGrid";
+  3 | import { ideas, recipes } from "@/lib/mock";
+  4 | import { Main } from "next/document";
+
+Import map: aliased to relative './components/MainHero' inside of [project]/
+
+https://nextjs.org/docs/messages/module-not-found
+[00:18:07.034] Browser ERROR   ./app/page.tsx:1:1
+Module not found: Can't resolve '@/components/MainHero'
+> 1 | import MainHero from "@/components/MainHero";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 | import PhotoGrid from "@/components/PhotoGrid";
+  3 | import { ideas, recipes } from "@/lib/mock";
+  4 | import { Main } from "next/document";
+
+Import map: aliased to relative './components/MainHero' inside of [project]/
+
+https://nextjs.org/docs/messages/module-not-found
+[00:18:07.034] Browser ERROR   ./app/page.tsx:1:1
+Module not found: Can't resolve '@/components/MainHero'
+> 1 | import MainHero from "@/components/MainHero";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 | import PhotoGrid from "@/components/PhotoGrid";
+  3 | import { ideas, recipes } from "@/lib/mock";
+  4 | import { Main } from "next/document";
+
+Import map: aliased to relative './components/MainHero' inside of [project]/
+
+https://nextjs.org/docs/messages/module-not-found
+[00:19:10.921] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:19:56.026] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:19:58.209] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:19:59.870] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:20:19.063] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:20:40.119] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:24:17.821] Server  LOG     ✓ Compiled in 36ms
+[00:24:20.994] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:24:26.586] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:24:28.656] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:33:42.581] Server  LOG     ✓ Compiled in 27ms
+[00:33:48.518] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:33:53.047] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:33:55.274] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:34:17.768] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:34:19.088] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:34:57.450] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:37:26.064] Server  LOG     ✓ Compiled in 30ms
+[00:38:03.062] Server  LOG     ✓ Compiled in 26ms
+[00:38:14.756] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:38:16.317] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:38:26.093] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:38:29.623] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:38:31.443] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:53:44.029] Server  LOG     ✓ Compiled in 21ms
+[00:54:04.498] Server  LOG     ✓ Compiled in 30ms
+[00:54:07.785] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:55:53.261] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:55:58.525] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:56:08.792] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:56:10.399] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
