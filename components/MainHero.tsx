@@ -9,11 +9,8 @@ export default function MainHero() {
   const loadHero = () => {
     try {
       const raw = localStorage.getItem(HERO_STORAGE_KEY);
-      if (raw) {
-        setHero({ ...defaultHero, ...JSON.parse(raw) });
-      } else {
-        setHero(defaultHero);
-      }
+      if (raw) setHero({ ...defaultHero, ...JSON.parse(raw) });
+      else setHero(defaultHero);
     } catch {
       setHero(defaultHero);
     }
@@ -26,9 +23,7 @@ export default function MainHero() {
       if (e.key === HERO_STORAGE_KEY) loadHero();
     };
 
-    const onHeroUpdated = () => {
-      loadHero();
-    };
+    const onHeroUpdated = () => loadHero();
 
     window.addEventListener("storage", onStorage);
     window.addEventListener("hero-updated", onHeroUpdated);
@@ -39,6 +34,8 @@ export default function MainHero() {
     };
   }, []);
 
+  const imageSrc = hero.imageUrl || defaultHero.imageUrl;
+
   return (
     <section
       style={{
@@ -48,23 +45,36 @@ export default function MainHero() {
         marginBottom: 18,
       }}
     >
-      <img
-        src={hero.imageUrl || defaultHero.imageUrl}
-        alt="hero"
+      {/* 이미지 래퍼: contain일 때 남는 여백을 예쁘게 처리 */}
+      <div
         style={{
           width: "100%",
           height: 320,
-          objectFit: "cover",
-          display: "block",
+          background: "#FFF", // 여백 색 (원하면 "#0b1e3a" 같은 푸른톤 가능)
+          display: "flex",
+          alignItems: "center",
+          justifyContent: "center",
         }}
-      />
+      >
+        <img
+          src={imageSrc}
+          alt="hero"
+          style={{
+            width: "100%",
+            height: "100%",
+            objectFit: "contain", // ✅ 안 잘리게
+            objectPosition: "center",
+            display: "block",
+          }}
+        />
+      </div>
 
-      <div style={{ padding: 16 }}>
-        <div style={{ fontSize: 26, fontWeight: 900 }}>
+      <div style={{ padding: 16, background: "#000" }}>
+        <div style={{ fontSize: 26, fontWeight: 900, color: "#fff" }}>
           {hero.title}
         </div>
 
-        <div style={{ marginTop: 8, opacity: 0.85 }}>
+        <div style={{ marginTop: 8, opacity: 0.85, color: "#cfcfcf" }}>
           {hero.subtitle}
         </div>
 
@@ -75,10 +85,10 @@ export default function MainHero() {
               display: "inline-block",
               padding: "10px 14px",
               borderRadius: 12,
-              border: "1px solid #ddd",
+              border: "1px solid #333",
               fontWeight: 900,
               textDecoration: "none",
-              color: "inherit",
+              color: "#fff",
             }}
           >
             {hero.ctaText}
